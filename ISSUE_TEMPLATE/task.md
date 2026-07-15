@@ -1,8 +1,8 @@
 ---
 name: Project Task
-description: <!-- Fill in description -->
+about: Fill in description
 title: '[Task]: '
 ---
 
 ### Task Description
-<!-- Your markdown template text goes here... -->
+Your markdown description here
